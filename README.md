@@ -4,6 +4,8 @@ Creating the space Invaders game in Java || CSCS-295 (Intro to Java)
 
 Using the following imports
 
+----------
+
 AWT module
 
 Canvas and Color				            // For Canvas (Board) and Colors :v
@@ -21,12 +23,16 @@ Rectangle; 				                  // For 'Hit-Boxes' of entities
 Toolkit;				                    // Tools to use images
 
 
+---------
+
 Swing GUI
 
 JFrame and JPanel                   // Swing GUI for Frames and Panels
 
 imageio.ImageIO 	                  // To Locally allow images
 
+
+--------------
 
 Java utilities
 
